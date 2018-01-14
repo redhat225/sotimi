@@ -38,9 +38,9 @@
 <!-- START REVOLUTION SLIDER 5.4.6.3 auto mode -->
 	<div id="rev_slider_7_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.6.3">
 <ul>	<!-- SLIDE  -->
-    <li data-index="rs-19" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="/img/revslider/home/main/100x50_473aa-31369.jpg"  data-rotate="0"  data-saveperformance="off"  data-mediafilter="gingham" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="" data-beforeafter='{"moveto":"50%|50%|50%|50%","bgColor":"linear-gradient(270deg, rgba(238,205,163,1) 0%, rgba(239,98,159,1) 100%)","bgType":"image","bgImage":"/img/revslider/home/main/kt2.jpg","bgFit":"cover","bgPos":"center center","bgRepeat":"no-repeat","direction":"horizontal","easing":"Power2.easeInOut","delay":"500","time":"750","out":"fade","carousel":false,"filter":"gingham","bounceArrows":"infinite","bounceType":"repel","bounceAmount":"5","bounceSpeed":"1500","bounceEasing":"ease-in-out","bounceDelay":"750","shiftOffset":"10","shiftTiming":"300","shiftEasing":"ease","shiftDelay":"250"}'>
+    <li data-index="rs-19" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="/webroot/img/revslider/home/main/100x50_473aa-31369.jpg"  data-rotate="0"  data-saveperformance="off"  data-mediafilter="gingham" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="" data-beforeafter='{"moveto":"50%|50%|50%|50%","bgColor":"linear-gradient(270deg, rgba(238,205,163,1) 0%, rgba(239,98,159,1) 100%)","bgType":"image","bgImage":"/webroot/img/revslider/home/main/kt2.jpg","bgFit":"cover","bgPos":"center center","bgRepeat":"no-repeat","direction":"horizontal","easing":"Power2.easeInOut","delay":"500","time":"750","out":"fade","carousel":false,"filter":"gingham","bounceArrows":"infinite","bounceType":"repel","bounceAmount":"5","bounceSpeed":"1500","bounceEasing":"ease-in-out","bounceDelay":"750","shiftOffset":"10","shiftTiming":"300","shiftEasing":"ease","shiftDelay":"250"}'>
 		<!-- MAIN IMAGE -->
-        <img src="/img/revslider/home/main/dummy.png"  alt=""  data-lazyload="/img/revslider/home/main/473aa-31369.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+        <img src="/webroot/img/revslider/home/main/dummy.png"  alt=""  data-lazyload="/webroot/img/revslider/home/main/473aa-31369.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
 		<!-- LAYERS -->
 
 		<!-- LAYER NR. 1 -->
@@ -135,7 +135,7 @@
             data-paddingbottom="[0,0,0,0]"
             data-paddingleft="[0,0,0,0]"
 
-            style="z-index: 8;"><img src="/img/revslider/home/main/dummy.png" alt="" data-ww="['600px','600px','600px','300px']" data-hh="['600px','600px','600px','300px']" data-lazyload="/img/revslider/home/main/keyboard_apple.png" data-no-retina> </div>
+            style="z-index: 8;"><img src="/webroot/img/revslider/home/main/dummy.png" alt="" data-ww="['600px','600px','600px','300px']" data-hh="['600px','600px','600px','300px']" data-lazyload="/webroot/img/revslider/home/main/keyboard_apple.png" data-no-retina> </div>
 
 		<!-- LAYER NR. 5 -->
 		<div class="tp-caption   tp-resizeme  tp-blackshadow rs-parallaxlevel-5" 
@@ -228,7 +228,7 @@
             data-paddingbottom="[0,0,0,0]"
             data-paddingleft="[0,0,0,0]"
 
-            style="z-index: 12;"><img src="/img/revslider/home/main/dummy.png" alt="" data-ww="['336px','336px','336px','399px']" data-hh="['505px','505px','505px','599px']" data-lazyload="/img/revslider/home/main/b5475-photo_1798_20120511.png" data-no-retina> </div>
+            style="z-index: 12;"><img src="/webroot/img/revslider/home/main/dummy.png" alt="" data-ww="['336px','336px','336px','399px']" data-hh="['505px','505px','505px','599px']" data-lazyload="/webroot/img/revslider/home/main/b5475-photo_1798_20120511.png" data-no-retina> </div>
 
 		<!-- LAYER NR. 9 -->
 		<div class="tp-caption   tp-resizeme" 
@@ -250,7 +250,7 @@
             data-paddingbottom="[0,0,0,0]"
             data-paddingleft="[0,0,0,0]"
 
-            style="z-index: 13;background-color:rgba(12,12,12,0);"><img src="/img/revslider/home/main/dummy.png" alt="" data-ww="['179px','179px','179px','212px']" data-hh="['237px','237px','237px','280px']" data-lazyload="/img/revslider/home/main/f105a-LOGO-SOTIMI.png" data-no-retina> </div>
+            style="z-index: 13;background-color:rgba(12,12,12,0);"><img src="/webroot/img/revslider/home/main/dummy.png" alt="" data-ww="['179px','179px','179px','212px']" data-hh="['237px','237px','237px','280px']" data-lazyload="/webroot/img/revslider/home/main/f105a-LOGO-SOTIMI.png" data-no-retina> </div>
 
 		<!-- LAYER NR. 10 -->
 		<div class="tp-caption   tp-resizeme" 
@@ -272,7 +272,7 @@
             data-paddingbottom="[0,0,0,0]"
             data-paddingleft="[0,0,0,0]"
 
-            style="z-index: 14;"><img src="/img/revslider/home/main/dummy.png" alt="" data-ww="['179px','179px','179px','211px']" data-hh="['240px','240px','240px','278px']" data-lazyload="/img/revslider/home/main/f105a-LOGO-SOTIMI.png" data-no-retina> </div>
+            style="z-index: 14;"><img src="/webroot/img/revslider/home/main/dummy.png" alt="" data-ww="['179px','179px','179px','211px']" data-hh="['240px','240px','240px','278px']" data-lazyload="/webroot/img/revslider/home/main/f105a-LOGO-SOTIMI.png" data-no-retina> </div>
 
 		<!-- LAYER NR. 11 -->
 		<div class="tp-caption   tp-resizeme  info-sotimi" 
@@ -294,7 +294,7 @@
             data-paddingbottom="[0,0,0,0]"
             data-paddingleft="[0,0,0,0]"
 
-            style="z-index: 15;"><img src="/img/revslider/home/main/dummy.png" alt="" data-ww="['47px','47px','47px','47px']" data-hh="['46px','46px','46px','46px']" data-lazyload="/img/revslider/home/main/c355a-ios7-information-outline.png" data-no-retina> </div>
+            style="z-index: 15;"><img src="/webroot/img/revslider/home/main/dummy.png" alt="" data-ww="['47px','47px','47px','47px']" data-hh="['46px','46px','46px','46px']" data-lazyload="/webroot/img/revslider/home/main/c355a-ios7-information-outline.png" data-no-retina> </div>
 
 		<!-- LAYER NR. 12 -->
 		<div class="tp-caption   tp-resizeme rs-parallaxlevel-6" 
@@ -316,7 +316,7 @@
             data-paddingbottom="[0,0,0,0]"
             data-paddingleft="[0,0,0,0]"
 
-            style="z-index: 16;"><img src="/img/revslider/home/main/dummy.png" alt="" data-ww="['329px','329px','329px','329px']" data-hh="['329px','329px','329px','329px']" data-lazyload="/img/revslider/home/main/object_pcmouse_1.png" data-no-retina> </div>
+            style="z-index: 16;"><img src="/webroot/img/revslider/home/main/dummy.png" alt="" data-ww="['329px','329px','329px','329px']" data-hh="['329px','329px','329px','329px']" data-lazyload="/webroot/img/revslider/home/main/object_pcmouse_1.png" data-no-retina> </div>
 
 		<!-- LAYER NR. 13 -->
 		<div class="tp-caption   tp-resizeme  info-sotimi" 
@@ -338,7 +338,7 @@
             data-paddingbottom="[0,0,0,0]"
             data-paddingleft="[0,0,0,0]"
 
-            style="z-index: 17;"><img src="/img/revslider/home/main/dummy.png" alt="" data-ww="['48px','48px','48px','48px']" data-hh="['47px','47px','47px','47px']" data-lazyload="/img/revslider/home/main/c355a-ios7-information-outline.png" data-no-retina> </div>
+            style="z-index: 17;"><img src="/webroot/img/revslider/home/main/dummy.png" alt="" data-ww="['48px','48px','48px','48px']" data-hh="['47px','47px','47px','47px']" data-lazyload="/webroot/img/revslider/home/main/c355a-ios7-information-outline.png" data-no-retina> </div>
 	</li>
 </ul>
 <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
@@ -353,7 +353,7 @@
 				}else{
 					revapi7 = tpj("#rev_slider_7_1").show().revolution({
 						sliderType:"hero",
-jsFileLocation:"//revslider.local/revslider/public//img/revslider/home/main/js/",
+jsFileLocation:"//revslider.local/revslider/public//webroot/img/revslider/home/main/js/",
 						sliderLayout:"auto",
 						dottedOverlay:"none",
 						delay:9000,
