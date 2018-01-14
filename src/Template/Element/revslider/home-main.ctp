@@ -15,7 +15,7 @@
 
         
         <!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
-		<script type="text/javascript" src="js/extensions/revolution.extension.actions.min.js"></script>
+<!-- 		<script type="text/javascript" src="js/extensions/revolution.extension.actions.min.js"></script>
 		<script type="text/javascript" src="js/extensions/revolution.extension.carousel.min.js"></script>
 		<script type="text/javascript" src="js/extensions/revolution.extension.kenburn.min.js"></script>
 		<script type="text/javascript" src="js/extensions/revolution.extension.layeranimation.min.js"></script>
@@ -23,7 +23,7 @@
 		<script type="text/javascript" src="js/extensions/revolution.extension.navigation.min.js"></script>
 		<script type="text/javascript" src="js/extensions/revolution.extension.parallax.min.js"></script>
 		<script type="text/javascript" src="js/extensions/revolution.extension.slideanims.min.js"></script>
-		<script type="text/javascript" src="js/extensions/revolution.extension.video.min.js"></script>
+		<script type="text/javascript" src="js/extensions/revolution.extension.video.min.js"></script> -->
 
 
         <script type="text/javascript">function setREVStartSize(e){
@@ -33,12 +33,12 @@
             };</script>
 	</head>
 
-			
+			<!-- http:\/\/revslider.local\/media\/e5f5d-kt2.jpg -->
 <div id="rev_slider_7_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="sotimi-hero-slider" data-source="gallery" style="margin:0px auto;background:#252525;padding:0px;margin-top:0px;margin-bottom:0px;">
 <!-- START REVOLUTION SLIDER 5.4.6.3 auto mode -->
 	<div id="rev_slider_7_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.6.3">
 <ul>	<!-- SLIDE  -->
-    <li data-index="rs-19" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="/img/revslider/home/main/100x50_473aa-31369.jpg"  data-rotate="0"  data-saveperformance="off"  data-mediafilter="gingham" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="" data-beforeafter='{"moveto":"50%|50%|50%|50%","bgColor":"linear-gradient(270deg, rgba(238,205,163,1) 0%, rgba(239,98,159,1) 100%)","bgType":"image","bgImage":"http:\/\/revslider.local\/media\/e5f5d-kt2.jpg","bgFit":"cover","bgPos":"center center","bgRepeat":"no-repeat","direction":"horizontal","easing":"Power2.easeInOut","delay":"500","time":"750","out":"fade","carousel":false,"filter":"gingham","bounceArrows":"infinite","bounceType":"repel","bounceAmount":"5","bounceSpeed":"1500","bounceEasing":"ease-in-out","bounceDelay":"750","shiftOffset":"10","shiftTiming":"300","shiftEasing":"ease","shiftDelay":"250"}'>
+    <li data-index="rs-19" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="/img/revslider/home/main/100x50_473aa-31369.jpg"  data-rotate="0"  data-saveperformance="off"  data-mediafilter="gingham" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="" data-beforeafter='{"moveto":"50%|50%|50%|50%","bgColor":"linear-gradient(270deg, rgba(238,205,163,1) 0%, rgba(239,98,159,1) 100%)","bgType":"image","bgImage":"/img/revslider/home/main/kt2.jpg","bgFit":"cover","bgPos":"center center","bgRepeat":"no-repeat","direction":"horizontal","easing":"Power2.easeInOut","delay":"500","time":"750","out":"fade","carousel":false,"filter":"gingham","bounceArrows":"infinite","bounceType":"repel","bounceAmount":"5","bounceSpeed":"1500","bounceEasing":"ease-in-out","bounceDelay":"750","shiftOffset":"10","shiftTiming":"300","shiftEasing":"ease","shiftDelay":"250"}'>
 		<!-- MAIN IMAGE -->
         <img src="/img/revslider/home/main/dummy.png"  alt=""  data-lazyload="/img/revslider/home/main/473aa-31369.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
 		<!-- LAYERS -->
