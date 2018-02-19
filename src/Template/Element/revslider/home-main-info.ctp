@@ -18,7 +18,7 @@
 						</p>
 						  <h3 class="title is-size-3-widescreen is-size-4-mobile is-family-second is-mar-bot-10 is-mar-top-20">Contacts</h3>
 						<p>
-						  <span>BAMBA Daouda: Ceo SOTIMI-GROUP </span>	<br>
+						  <span>Siège SOTIMI-GROUP</span>	<br>
 						  <span>+225 48048801/03701516 </span>	<br>
 						  <span>infos@sotimi-ci.com </span>	<br>
 						  <span class="is-italic">Sotimi, le partenaire de l'innovation</span>
